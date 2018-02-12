@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PorterInNet", "PorterInNet\PorterInNet.csproj", "{F9BD8AF6-120E-49BA-9379-30BDF68C87C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PorterInNet.Test", "PorterInNet.Test\PorterInNet.Test.csproj", "{ADF7FA77-E472-48CC-94FC-4036150BCFD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BD8AF6-120E-49BA-9379-30BDF68C87C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BD8AF6-120E-49BA-9379-30BDF68C87C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BD8AF6-120E-49BA-9379-30BDF68C87C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BD8AF6-120E-49BA-9379-30BDF68C87C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF7FA77-E472-48CC-94FC-4036150BCFD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF7FA77-E472-48CC-94FC-4036150BCFD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF7FA77-E472-48CC-94FC-4036150BCFD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF7FA77-E472-48CC-94FC-4036150BCFD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7DCB617-AEE7-47EE-A3A8-7F38BBB3F3A3}
+	EndGlobalSection
+EndGlobal
